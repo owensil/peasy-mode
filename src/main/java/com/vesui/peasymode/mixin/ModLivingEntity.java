@@ -1,4 +1,4 @@
-package net.fabricmc.example.mixin;
+package com.vesui.peasymode.mixin;
 
 import net.minecraft.entity.Entity;
 import net.minecraft.entity.EntityType;

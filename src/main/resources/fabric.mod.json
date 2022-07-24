@@ -1,29 +1,26 @@
 {
   "schemaVersion": 1,
-  "id": "modid",
+  "id": "peasymode",
   "version": "${version}",
 
-  "name": "Example Mod",
-  "description": "This is an example description! Tell everyone what your mod is about!",
+  "name": "Peaceful Easy Mode",
+  "description": "Hostile mobs will no longer target you in easy mode. Allows you to get hostile mob drops but keep the difficulty of peaceful mode.",
   "authors": [
-    "Me!"
+    "Vesui"
   ],
   "contact": {
-    "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/FabricMC/fabric-example-mod"
   },
 
   "license": "CC0-1.0",
-  "icon": "assets/modid/icon.png",
+  "icon": "assets/peasymode/icon.png",
 
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.fabricmc.example.ExampleMod"
     ]
   },
   "mixins": [
-    "modid.mixins.json"
+    "peasymode.mixins.json"
   ],
 
   "depends": {
