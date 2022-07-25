@@ -4,6 +4,7 @@
   "package": "com.vesui.peasymode.mixin",
   "compatibilityLevel": "JAVA_17",
   "mixins": [
+    "ModHostileEntity",
     "ModLivingEntity"
   ],
   "client": [

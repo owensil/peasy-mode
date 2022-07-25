@@ -3,7 +3,7 @@
   "id": "peasymode",
   "version": "${version}",
 
-  "name": "Peaceful Easy Mode",
+  "name": "Peasy Mode",
   "description": "Hostile mobs will no longer target you in easy mode. Allows you to get hostile mob drops but keep the difficulty of peaceful mode.",
   "authors": [
     "Vesui"
