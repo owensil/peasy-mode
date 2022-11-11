@@ -1,4 +1,4 @@
-[Curseforge Link](https://www.curseforge.com/minecraft/mc-mods/peaceful-easy-mode)
+[Curseforge Link](https://www.curseforge.com/minecraft/mc-mods/peasy-mode)
 
 ### Updated For
 - Minecraft 1.19.2
