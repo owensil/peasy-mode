@@ -2,8 +2,7 @@
 
 ### Updated For
 - Minecraft 1.19.2
-- Fabric 0.14.9
-- Quilt 0.17.4
+- Fabric 0.14.10
 
 ### Dependencies
 - None
