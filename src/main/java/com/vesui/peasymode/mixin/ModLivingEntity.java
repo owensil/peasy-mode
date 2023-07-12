@@ -21,7 +21,7 @@ public abstract class ModLivingEntity extends Entity {
     @Inject(method = "canTarget(Lnet/minecraft/entity/LivingEntity;)Z", at = @At("HEAD"), cancellable = true, expect = 1)
     public void onCanTarget(LivingEntity target, CallbackInfoReturnable<Boolean> ci) {
         // Can't target if target is a player and difficulty is peaceful or easy
-        boolean readable = this.world.getDifficulty() == Difficulty.PEACEFUL || this.world.getDifficulty() == Difficulty.EASY;
+        boolean readable = this.getWorld().getDifficulty() == Difficulty.PEACEFUL || this.getWorld().getDifficulty() == Difficulty.EASY;
         ci.setReturnValue((!(target instanceof PlayerEntity) || !readable) && target.canTakeDamage());
     }
 }
