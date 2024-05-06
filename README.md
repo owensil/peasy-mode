@@ -1,8 +1,9 @@
-[Curseforge Link](https://www.curseforge.com/minecraft/mc-mods/peasy-mode)
+[Curseforge](https://www.curseforge.com/minecraft/mc-mods/peasy-mode)
+
+[Modrinth](https://modrinth.com/mod/peasy-mode)
 
 ### Updated For
-- Minecraft 1.20.1
-- Fabric 0.14.21
+- Minecraft 1.20.x
 
 ### Dependencies
 - None
