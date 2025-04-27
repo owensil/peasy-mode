@@ -1,9 +1,6 @@
-[Curseforge](https://www.curseforge.com/minecraft/mc-mods/peasy-mode)
+[![build](https://github.com/owensil/peasy-mode/actions/workflows/build.yml/badge.svg)](https://github.com/owensil/peasy-mode/actions/workflows/build.yml)
 
-[Modrinth](https://modrinth.com/mod/peasy-mode)
-
-### Updated For
-- Minecraft 1.20.x
+[Curseforge](https://www.curseforge.com/minecraft/mc-mods/peasy-mode) [Modrinth](https://modrinth.com/mod/peasy-mode)
 
 ### Dependencies
 - None
